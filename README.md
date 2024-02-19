@@ -84,3 +84,9 @@ $ python3 main.py
 ![yusef gobadi & segrao](https://github.com/jokerp-world/configs/blob/main/9.jpg)
 
 [#yusef_gobadi]() [#Segaro]()
+
+
+سوالی داشتید در تویتر پیام بدید:
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=jokerp-world)](https://x.com/jokerp_world?s=09)
+
