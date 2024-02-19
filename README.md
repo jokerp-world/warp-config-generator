@@ -12,10 +12,11 @@ pkg update & pkg upgrade -y & pkg install curl & pkg install git & pkg install p
 
 # دانلود و نصب پرژه گیت:
 
-'''bash
-git clone https://github.com/jokerp-world/warp-config-generator
-
+```bash
+$ git clone https://github.com/jokerp-world/warp-config-generator
 $ cd warp-config-generator
+$ pip install -r requirements.txt
+$ python3 main.py
 
-
-'''
+```
+![main menu](https://github.com/jokerp-world/configs/blob/main/1.jpg)
