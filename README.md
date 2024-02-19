@@ -47,9 +47,11 @@ $ python3 main.py
 
 وارد نرم افزار بشید در بالا گوشه راست آیکون + بزنید:
 
+
 ![step 1](https://github.com/jokerp-world/configs/blob/main/4.jpg)
 
 بعد گزینه `Add Frome Clipboard` بزنید:
+
 
 ![step 2](https://github.com/jokerp-world/configs/blob/main/5.jpg)
 خب اگر گزینه ای به عنوان `Profile Saved Successfully` براتون نمایش داده شد یعنی کانفیگ با موفقیت ست شده:
@@ -58,9 +60,11 @@ $ python3 main.py
 
 حالا با تاچ روی آیکون میتونید متصل بشید :
 
+
 ![step 4](https://github.com/jokerp-world/configs/blob/main/7.jpg)
 
 همینطور که میبینید سرعت خوبی هم داره:
+
 
 ![test speed](https://github.com/jokerp-world/configs/blob/main/8.jpg)
 
@@ -69,4 +73,5 @@ $ python3 main.py
 
 
 # صدای یوسف قبادی و سگارو باشیم 
+
 ![yusef gobadi & segrao](https://github.com/jokerp-world/configs/blob/main/9.jpg)
