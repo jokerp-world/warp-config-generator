@@ -5,6 +5,6 @@
 
 #نصب پیش نیازهای در ترموکس
 
-```toml
+```
 pkg update & pkg upgrade -y & pkg install curl & pkg install python3 & pkg install python3-pip
 ```
