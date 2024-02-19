@@ -3,8 +3,19 @@
 به یاد پیشتازان این راه `#سگارو` و `#یوسف` قبادی.
 
 
-# نصب پیش نیازهای در ترموکس
+# نصب پیش نیازهای در ترموکس:
 
+```bash
+pkg update & pkg upgrade -y & pkg install curl & pkg install git & pkg install python3 & pkg install python3-pip
 ```
-pkg update & pkg upgrade -y & pkg install curl & pkg install python3 & pkg install python3-pip
-```
+
+
+# دانلود و نصب پرژه گیت:
+
+'''bash
+git clone https://github.com/jokerp-world/warp-config-generator
+
+$ cd warp-config-generator
+
+
+'''
