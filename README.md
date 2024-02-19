@@ -80,3 +80,5 @@ $ python3 main.py
 # صدای یوسف قبادی و سگارو باشیم 
 
 ![yusef gobadi & segrao](https://github.com/jokerp-world/configs/blob/main/9.jpg)
+
+[#yusef_gobadi] [#Segaro]
