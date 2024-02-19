@@ -3,7 +3,7 @@
 به یاد پیشتازان این راه `#سگارو` و `#یوسف` قبادی.
 
 
-#نصب پیش نیازهای در ترموکس
+# نصب پیش نیازهای در ترموکس
 
 ```
 pkg update & pkg upgrade -y & pkg install curl & pkg install python3 & pkg install python3-pip
