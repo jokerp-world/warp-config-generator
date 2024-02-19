@@ -81,4 +81,4 @@ $ python3 main.py
 
 ![yusef gobadi & segrao](https://github.com/jokerp-world/configs/blob/main/9.jpg)
 
-[#yusef_gobadi] [#Segaro]
+[#yusef_gobadi]() [#Segaro]()
