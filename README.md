@@ -29,4 +29,9 @@ $ python3 main.py
 
 
 
+اگر گزینه یک رو انتخاب کردید باید `Preferred` مناسب با اینترنتتون رو انتخاب کنید که تو ایران همون گزینه یک جوابگوعه
+
+
+![sellect preferred menu](https://github.com/jokerp-world/configs/blob/main/2.jpg)
+
 
