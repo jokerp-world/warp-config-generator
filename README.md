@@ -24,14 +24,22 @@ $ python3 main.py
 
 گزینه دوم بهتون فقط کافیگ با `Licence Key` نامحدود میده و آیپی اتوماتیک انتخاب میشه
 
-و گزینه سوم کانفیگی کاملا اتوماتیک میده
+و گزینه سوم کانفیگی کاملا اتوماتیک میده:
 ![main menu](https://github.com/jokerp-world/configs/blob/main/1.jpg)
 
 
 
-اگر گزینه یک رو انتخاب کردید باید `Preferred` مناسب با اینترنتتون رو انتخاب کنید که تو ایران همون گزینه یک جوابگوعه
+اگر گزینه یک رو انتخاب کردید باید `Preferred` مناسب با اینترنتتون رو انتخاب کنید که تو ایران همون گزینه یک جوابگوعه:
 
 
 ![sellect preferred menu](https://github.com/jokerp-world/configs/blob/main/2.jpg)
 
 
+خروجی اسکریپت بهتون یه کانفیگ میده که باید در نرم افزار `Hiddify Next` وارد کنید که البته باید نسخه ای که در ادامه گفته میشه رو استفاده کنید:
+
+![output config](https://github.com/jokerp-world/configs/blob/main/3.jpg)
+
+
+از لینک زیر میتونید نرم افزار Hiddify Next رو دانلود کنید که نسخه `0.15.4` از قابلیت warp استفاده میکنه بر اساس نوع سیستم گوشیتون برنامه رو نصب کنید:
+
+[Hiddify Next](https://github.com/hiddify/hiddify-next/releases)
