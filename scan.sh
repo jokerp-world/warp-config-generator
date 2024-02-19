@@ -205,10 +205,10 @@ exit
 }
 
 clear
-echo "--------------------------------------------\n"
+echo -e "--------------------------------------------\n"
 echo -e "${yellow}By --> JOKERP  *${rest}"
 echo -e "${blue}#segaro #yusef_gobadi${rest}"
-echo "--------------------------------------------\n"
+echo -e "--------------------------------------------\n"
 echo""
 echo -e "${purple}1.${green}IPV4 preferred peer IP${rest}"
 echo -e "${purple}2.${green}IPV6 preferred peer IP${rest}"
