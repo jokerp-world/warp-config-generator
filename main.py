@@ -1,5 +1,7 @@
 import os
 from colorama import Fore
+import time
+os.system("chmod +x scan.sh")
 
 
 BOLD = '\033[1m'
@@ -12,7 +14,7 @@ logo = Fore.GREEN+'''
 ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ''' +BOLD+Fore.BLUE +'''#Segaro #yusef_gobadi \n'''
 
-os.system("clear")
+os.system('cls' if os.name == 'nt' else 'clear')
 
 print(logo+"\n"+Fore.YELLOW+"BY: "+Fore.RED+"JOKERP \n\n\n")
 
@@ -31,7 +33,7 @@ if inp == 1:
 	os.system("./scan.sh")
 	os.system("cat result.csv | grep -oE '[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+:[0-9]+' | head -n 1 > data.txt")
 	print(BOLD+Fore.YELLOW+"Please Wait .....")
-	os.system("python3 license.py")
+	os.system("python3 lice.py")
 
 
 	with open('data.txt', 'r') as file:
@@ -47,7 +49,7 @@ if inp == 1:
 	print(BOLD+Fore.BLUE+"\n-------------------------------------------")
 if inp == 2:
 	print(BOLD+Fore.YELLOW+"Please Wait .....")
-	os.system("python3 license2.py")
+	os.system("python3 lice2.py")
 
 	with open('data.txt', 'r') as file:
 		license = file.readlines()
@@ -65,4 +67,3 @@ if inp == 3:
 	print(BOLD+Fore.BLUE+"\n---------------------------\n")
 	print(Fore.YELLOW+"Your config ----> : "+BOLD+Fore.GREEN+f"warp://auto")
 	print(BOLD+Fore.BLUE+"\n-----------------------------\n")
-
