@@ -33,7 +33,7 @@ if inp == 1:
 	os.system("./scan.sh")
 	os.system("cat result.csv | grep -oE '[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+:[0-9]+' | head -n 1 > data.txt")
 	print(BOLD+Fore.YELLOW+"Please Wait .....")
-	os.system("python3 lice.py")
+	os.system("python3 license.py")
 
 
 	with open('data.txt', 'r') as file:
@@ -49,7 +49,7 @@ if inp == 1:
 	print(BOLD+Fore.BLUE+"\n-------------------------------------------")
 if inp == 2:
 	print(BOLD+Fore.YELLOW+"Please Wait .....")
-	os.system("python3 lice2.py")
+	os.system("python3 license2.py")
 
 	with open('data.txt', 'r') as file:
 		license = file.readlines()
