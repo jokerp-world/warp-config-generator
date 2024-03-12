@@ -42,7 +42,7 @@ $ python3 main.py
 ![output config](https://github.com/jokerp-world/configs/blob/main/3.jpg)
 
 
-از لینک زیر میتونید نرم افزار Hiddify Next رو دانلود کنید که نسخه `0.15.4` از قابلیت warp استفاده میکنه بر اساس نوع سیستم گوشیتون برنامه رو نصب کنید: 
+از لینک زیر میتونید جدید ترین نسخه نرم افزار Hiddify Next رو بر اساس نوع سیستم گوشیتون برنامه رو نصب کنید: 
 [Hiddify Next](https://github.com/hiddify/hiddify-next/releases)
 
 # آموزش اضافه کردن کانیفگ در نرم افزار:
